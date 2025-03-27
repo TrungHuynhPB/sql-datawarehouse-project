@@ -21,6 +21,7 @@ GO
 USE DataWareHouse;
 GO
 
+-- 
 CREATE SCHEMA bronze;
 GO
 CREATE SCHEMA silver;
